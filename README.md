@@ -7,4 +7,4 @@
 MiguelRenato/MiguelRenato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[<img src="https://cdn.ko-fi.com/cdn/useruploads/fb01cda8-0226-4d24-a9ed-a6d3d8a4d084.png">](https://ko-fi.com/miguelrenato)
+[<img src="https://cdn.ko-fi.com/cdn/useruploads/fb01cda8-0226-4d24-a9ed-a6d3d8a4d084.png" alt="drawing" width="50"/>](https://ko-fi.com/miguelrenato)
